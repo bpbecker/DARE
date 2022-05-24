@@ -1,2 +1,2 @@
-# DPE
-Dyalog Proxy Executor
+# DARE
+Dyalog APL Remote Executor
